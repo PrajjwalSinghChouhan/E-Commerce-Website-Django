@@ -2,20 +2,35 @@
 A fully functional eCommerce web application built using Django, HTML, CSS, and JavaScript. This project includes user authentication, product management, cart functionality, and order processing.
 --------------------------------------------------------------------------------------------------------------------------------------
 🚀 Features
+
 🔐 User Authentication (Login / Register / Logout)
+
 🛍️ Product Listing & Categories
+
 🔎 Search Functionality
+
 🛒 Add to Cart / Remove from Cart
+
 💳 Order Placement System
+
 📦 Order History
+
 🧑‍💼 Admin Dashboard (Manage Products, Orders, Users)
+
 📱 Responsive Design
+
 --------------------------------------------------------------------------------------------------------------------------------------
+
 🛠️ Tech Stack
+
 Backend: Django (Python)
+
 Frontend: HTML, CSS, JavaScript
+
 Database: SQLite (default) / MySQL
+
 Version Control: Git & GitHub
+
 --------------------------------------------------------------------------------------------------------------------------------------
 📌 Future Improvements
 Payment Gateway Integration (Razorpay / Stripe)
